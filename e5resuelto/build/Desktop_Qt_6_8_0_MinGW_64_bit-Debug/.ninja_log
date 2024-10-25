@@ -1,0 +1,9 @@
+# ninja log v6
+19	1197	7515223146322569	e5resuelto_autogen/timestamp	337cc2ac8a032e41
+1205	5174	7515223147754424	CMakeFiles/e5resuelto.dir/e5resuelto_autogen/mocs_compilation.cpp.obj	391a34ab1e81712f
+19	1197	7515223146322569	e5resuelto_autogen/mocs_compilation.cpp	337cc2ac8a032e41
+5499	5945	7515223190702935	e5resuelto.exe	fe52e355fd6f47a2
+19	1197	7515223146322569	D:/Qt/e5resuelto/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/e5resuelto_autogen/timestamp	337cc2ac8a032e41
+19	1197	7515223146322569	D:/Qt/e5resuelto/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/e5resuelto_autogen/mocs_compilation.cpp	337cc2ac8a032e41
+1210	5319	7515223147792301	CMakeFiles/e5resuelto.dir/main.cpp.obj	47ac213c80aeb4f
+1215	5499	7515223147868836	CMakeFiles/e5resuelto.dir/mainwindow.cpp.obj	eff799d4bf53880a

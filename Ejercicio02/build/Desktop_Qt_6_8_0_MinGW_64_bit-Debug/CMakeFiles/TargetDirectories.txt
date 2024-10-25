@@ -1,0 +1,9 @@
+D:/Qt/Ejercicio02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/Ejercicio02.dir
+D:/Qt/Ejercicio02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Qt/Ejercicio02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Qt/Ejercicio02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Qt/Ejercicio02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Qt/Ejercicio02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Qt/Ejercicio02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/Qt/Ejercicio02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/Ejercicio02_autogen_timestamp_deps.dir
+D:/Qt/Ejercicio02/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/Ejercicio02_autogen.dir
